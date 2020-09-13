@@ -3,12 +3,12 @@ entries:
   buildachart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-13T12:00:55.303909137+09:00"
+    created: "2020-09-13T12:35:50.865627872+09:00"
     description: A Helm chart for Kubernetes
-    digest: da830928d7bb32c903efad6d3292609b766f7c73902cc6838b984cde65859101
+    digest: 12e80ad3f8c7388a638428f7645771c7420573741c1b5e5c0b978972c901964a
     name: buildachart
     type: application
     urls:
-    - https://github.com/kmpartner/buildachart/buildachart-0.1.0.tgz
+    - https://kmpartner.github.io/buildachart/buildachart-0.1.0.tgz
     version: 0.1.0
-generated: "2020-09-13T12:00:55.27969114+09:00"
+generated: "2020-09-13T12:35:50.847440833+09:00"
